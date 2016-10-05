@@ -1,0 +1,35 @@
+commit 90f0f4bd3c3a92e38cf8b6720d4a098d03cf3293
+Author: Jorge <jlts.01.94@gmail.com>
+Date:   Tue Oct 4 11:40:00 2016 -0600
+
+    Comandos agregados a la tabla
+
+commit 68fb2f425725f82d772486690044f6b63bdfbc9c
+Author: Jorge <jlts.01.94@gmail.com>
+Date:   Tue Oct 4 11:35:35 2016 -0600
+
+    footer
+
+commit 17d5dbbb007b94e17b3b4663e9facdf73e29c17d
+Author: Jorge <jlts.01.94@gmail.com>
+Date:   Tue Oct 4 11:34:09 2016 -0600
+
+    Imagen de git
+
+commit 26e42075321f1c16acd2d19163df2ea1fc8619a9
+Author: Jorge <jlts.01.94@gmail.com>
+Date:   Tue Oct 4 11:28:25 2016 -0600
+
+    Tabla de comandos
+
+commit 2365b0d734118423ca30c0b1e143ca3116f3c63a
+Author: Jorge <jlts.01.94@gmail.com>
+Date:   Mon Oct 3 11:54:31 2016 -0600
+
+    Encabezado e integracion de Bootstrap
+
+commit 70a697ee37ae32cddd7825737adc42b84c39c46a
+Author: Jorge <jlts.01.94@gmail.com>
+Date:   Mon Oct 3 11:39:06 2016 -0600
+
+    Estructura inicial
