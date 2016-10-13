@@ -1,6 +1,18 @@
+body
+{
+	font-size: 16px;
+	margin: 0 auto;
+	max-width: 1024px;
+}
+
 h1
 {
 	display: inline-block;
+}
+
+header
+{
+	text-align: center;
 }
 
 img
